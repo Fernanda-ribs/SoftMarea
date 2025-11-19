@@ -1,7 +1,7 @@
 # 🚗 SoftMarea - Sistema de Diagnóstico Automotivo
 
 [📄 Acesse o documento no Google Docs](https://docs.google.com/document/d/1D_XnJqxyD7o8ch2mUMC-VJC3jwAez9PI/edit)
-[📄 Acesse o Slide de apresentação]([https://docs.google.com/document/d/1D_XnJqxyD7o8ch2mUMC-VJC3jwAez9PI/edit](https://www.canva.com/design/DAGzbISPps4/JZF6IElBtqpaezclyITHhw/edit?utm_content=DAGzbISPps4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+[📄 Acesse o Slide de apresentação]([https://docs.google.com/document/d/1D_XnJqxyD7o8ch2mUMC-VJC3jwAez9PI/edit](https://www.canva.com/design/DAGzbISPps4/JZF6IElBtqpaezclyITHhw/edit?utm_content=DAGzbISPps4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Um sistema web inteligente para diagnóstico automotivo que ajuda você a identificar problemas em veículos das principais marcas do mercado brasileiro de forma simples e guiada.
 
